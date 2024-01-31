@@ -1,6 +1,0 @@
-Mi nombre es Edu
-Mi apellido es Maldonado
-24 años
-Y mi lenguaje preferido es Python
-Aunque también me gusta Kotlin
-Y Swift
